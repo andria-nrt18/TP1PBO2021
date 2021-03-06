@@ -1,0 +1,6 @@
+# Saya Andria Nartanto mengerjakan evaluasi (TP1) dalam praktikum mata kuliah Desain Pemrograman Berorientasi Objek
+# untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. 
+# Aamiin.
+
+Pada TP1 ini kesulitannya yaitu harus mempelajari banyak hal baru dengan waktu yang bentrok dengan beberapa kuis dan tugas matkul lain yang membuat proses searchingnya terhambat.
+Banyak hal baru yang dipelajari untuk dapat membuat fitur-fitur yang ada pada TP1 ini.
